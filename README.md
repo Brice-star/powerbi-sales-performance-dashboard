@@ -18,3 +18,5 @@ Ce travail a fait intervenir plusieurs compétences clés :
 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐟  Mettre en lumière les performances par région, produit et période, et fournir une base solide pour la prise de décision.    
 
 J’aime particulièrement la capacité de Power BI à rendre les données claires et accessibles, tout en offrant un vrai support à la stratégie d’entreprise.  Si vous souhaitez en discuter ou partager vos retours, ce sera un plaisir !    
+
+NB : Le fichier CSV contient les colonnes suivantes : Produit, Quantité, Prix unitaire, Région, etc.
